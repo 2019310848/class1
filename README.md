@@ -32,9 +32,9 @@ public static void main(String args[]){
 		 }
 ```
 
-##实验结果
+## 实验结果
 CPU速度2200
 硬盘容量200
 
-##实验感想
+## 实验感想
 第一次编写Java，学到了用CPU、HardDisk、PC三个分类，学会了传建一些类、参数等并给其赋值。
