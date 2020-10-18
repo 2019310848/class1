@@ -10,8 +10,8 @@ java  experiment
 3. 创建CPU类、参数speed、方法getSpeed,给speed赋值
 
 ## 核心方法
-1. 用Eclipse进行源代码的编译和调试，最后运行出结果
-2. 用Gitnub来写报告并提交上传
+1. 用Eclipse进行源代码的编译和给变量赋值，要符合题目要求，最后通过调试运行得出最终的结果
+2. 用把做好的实验通过Gitnub提交并且写设计报告并提交上传
 
 ```
 public static void main(String args[]){
