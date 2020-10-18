@@ -2,7 +2,7 @@
 java  experiment
 
 # 阅读内容
-用类描述计算机中CPL的速度和硬盘容量
+用类描述计算机中CPU的速度和硬盘容量
 
 ## 实验过程
 1. 在Test主类下有CPU、HardDisk、PC这些分类，在main方法中创建一个CPU对象cpu，然后再创建一个HardDisk对象disk，最后再创建一个PC对象pc
